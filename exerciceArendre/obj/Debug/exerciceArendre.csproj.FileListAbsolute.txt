@@ -1,0 +1,7 @@
+C:\Users\SADIO\Desktop\L3 IAGE\JAVA AVANCE\C SHARP\exerciceArendre\exerciceArendre\bin\Debug\exerciceArendre.exe.config
+C:\Users\SADIO\Desktop\L3 IAGE\JAVA AVANCE\C SHARP\exerciceArendre\exerciceArendre\bin\Debug\exerciceArendre.exe
+C:\Users\SADIO\Desktop\L3 IAGE\JAVA AVANCE\C SHARP\exerciceArendre\exerciceArendre\bin\Debug\exerciceArendre.pdb
+C:\Users\SADIO\Desktop\L3 IAGE\JAVA AVANCE\C SHARP\exerciceArendre\exerciceArendre\obj\Debug\exerciceArendre.csproj.AssemblyReference.cache
+C:\Users\SADIO\Desktop\L3 IAGE\JAVA AVANCE\C SHARP\exerciceArendre\exerciceArendre\obj\Debug\exerciceArendre.csproj.CoreCompileInputs.cache
+C:\Users\SADIO\Desktop\L3 IAGE\JAVA AVANCE\C SHARP\exerciceArendre\exerciceArendre\obj\Debug\exerciceArendre.exe
+C:\Users\SADIO\Desktop\L3 IAGE\JAVA AVANCE\C SHARP\exerciceArendre\exerciceArendre\obj\Debug\exerciceArendre.pdb
